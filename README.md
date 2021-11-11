@@ -1,3 +1,5 @@
-## Installation
+# Lext Injector
 
-1. Grab a copy of the latest release
+A Krunker userscript injector.
+
+Tutorials and Document can be found on this project's [Wiki](wiki).
